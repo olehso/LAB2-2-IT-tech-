@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "5ec449917c5356127c93a8a8"
+  },
+  "name": "Guardian Of Destruction",
+  "author": "Tiffany Hampton",
+  "year": 1996,
+  "publisher": "Publisher0",
+  "quantity": 562,
+  "ISBN": "125-1587-12",
+  "literate": "Book",
+  "Resourse": "DVD"
+},{
+  "_id": {
+    "$oid": "5ec449bc7c5356127c93a8a9"
+  },
+  "name": "Sword Of Freedom",
+  "author": "Charles Walker",
+  "year": 1994,
+  "publisher": "Publisher1",
+  "quantity": 176,
+  "ISBN": "123-384-66",
+  "literate": "Book",
+  "Resourse": [
+    "CD",
+    "Website"
+  ]
+},{
+  "_id": {
+    "$oid": "5ec449be7c5356127c93a8aa"
+  },
+  "name": "Source Of Hope",
+  "author": "James Sanchez",
+  "year": 2003,
+  "publisher": "Publisher2",
+  "quantity": 199,
+  "ISBN": "331-588-31",
+  "literate": "Book"
+},{
+  "_id": {
+    "$oid": "5ec449c17c5356127c93a8ab"
+  },
+  "name": "Foe Of Sorrow",
+  "author": "Beth Nelson",
+  "year": 1982,
+  "publisher": "Publisher3",
+  "quantity": 690,
+  "ISBN": "127-987-75",
+  "literate": "Book"
+},{
+  "_id": {
+    "$oid": "5ec449d27c5356127c93a8ac"
+  },
+  "name": "Savior Of Stone",
+  "literate": "Newspaper"
+},{
+  "_id": {
+    "$oid": "5ec449d47c5356127c93a8ad"
+  },
+  "name": "Serpents Of Heaven",
+  "year": 1965,
+  "literate": "Journal"
+}]

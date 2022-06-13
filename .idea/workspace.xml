@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42797539-16ef-43bd-afca-871c8faa2709" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/mongodb/mongodb" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1YcBFt7rTfNCcCeZXxI1xhBHD7r" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42797539-16ef-43bd-afca-871c8faa2709" name="Default Changelist" comment="" />
+      <created>1583231901198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583231901198</updated>
+      <workItem from="1583231902440" duration="1736000" />
+      <workItem from="1583233660784" duration="1795000" />
+      <workItem from="1583235477329" duration="1796000" />
+      <workItem from="1583237296119" duration="379000" />
+      <workItem from="1585644966066" duration="2432000" />
+      <workItem from="1586026419297" duration="902000" />
+      <workItem from="1586647605487" duration="26000" />
+      <workItem from="1586706998192" duration="7529000" />
+      <workItem from="1588002930294" duration="8000" />
+      <workItem from="1588059400174" duration="4904000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
